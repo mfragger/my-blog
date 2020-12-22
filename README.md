@@ -1,2 +1,2 @@
-# my-blog
-a blog about my thoughts as I journey through game dev
+# Posts 
+Sorted from latest to oldest
