@@ -140,7 +140,7 @@ But Unity doesn't recognize `Task Start` so `Start` won't get called. So as an e
 
 Now, let's run the code and see what happens.
 
-![alt text](img\Screenshot_2020-12-22_215502.png)
+![alt text](https://github.com/mfragger/my-blog/blob/master/articles/1-I-have-finally-learned-the-basics-of-async-await-as-a-unity-developer/img/Screenshot_2020-12-22_215502.png)
 
 Woah. It didn't run async? Why?
 
@@ -179,7 +179,7 @@ Now it does return a string so we need to declare what type it is, like so: `Tas
 
 Now, let's run.
 
-![alt text](img\Screenshot_2020-12-22_215953.png)
+![alt text](https://github.com/mfragger/my-blog/blob/master/articles/1-I-have-finally-learned-the-basics-of-async-await-as-a-unity-developer/img/Screenshot_2020-12-22_215953.png)
 
 And viola! It now runs in async!
 
@@ -233,7 +233,7 @@ Notice also I'm now following convention.
 
 Alright? alright. Now this should effectively have 2 Tasks running in async. Let's see the output.
 
-![alt text](img\Screenshot_2020-12-22_222711.png)
+![alt text](https://github.com/mfragger/my-blog/blob/master/articles/1-I-have-finally-learned-the-basics-of-async-await-as-a-unity-developer/img/Screenshot_2020-12-22_222711.png)
 
 And as expected! 
 
