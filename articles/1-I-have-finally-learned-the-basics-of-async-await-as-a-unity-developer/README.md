@@ -183,7 +183,7 @@ Now, let's run.
 
 And viola! It now runs in async!
 
-Let's go for one more example as we're nearing the end of this article. And, I suspect many of you who are read this far has now so many ideas running through your head.
+Let's go for one more example as we're nearing the end of this article. And, I suspect many of you who have read this far now have many ideas running through your head to improve the performance of your game.
 
 Consider the following code:
 
@@ -244,7 +244,7 @@ Both of our Tasks are running at the same time evident by the fact our logs foll
 Async-await or Async-await-Task allows us the ability to run multi-threaded code in a easy digestible format.
 We run the `Task` by calling the function, or by `Task.Run` and then `await` it when we need to do something with the result from that task.
 
-Now this is only just the basics of async-await and I've probably missed a few key things. But this post is long enough already. I'll leave you with a few articles and videos so you can do the rest of the learning yourself.
+Now this is only just the basics of async-await and I've probably missed a few key things, especially how Unity handles multithreading with their APIs. But this post is long enough already I'll talk about that in the next post, for now, I'll leave you with a few articles and videos so you can do the rest of the learning yourself.
 
 ## Extra
 
